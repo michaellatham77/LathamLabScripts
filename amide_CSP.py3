@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-#/usr/bin/python
 #
 # Script to make list for plotting amide chemical shift perturbations
 # onto structure using pymol
