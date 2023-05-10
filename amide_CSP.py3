@@ -20,7 +20,7 @@ parser = argparse.ArgumentParser(
     formatter_class=argparse.RawDescriptionHelpFormatter,
     description='''\
     Script to calculated combined chemical shift perturbations.
-    CSPs are weighted based on residue specific standard deviations of bmrb values.
+    CSPs are weighted.
     
     Peaklist must be in the following format
     Assignment  w1  w2
