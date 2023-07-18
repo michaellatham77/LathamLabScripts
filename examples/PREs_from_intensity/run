@@ -1,0 +1,2 @@
+#To get unambiguous distance restraint table for HADDOCK using HMQC intensity ratios
+PREs_from_intensity.py3 -ref_list Mre11R_Break2.tab -exp_list Mre11R_Break2_2S.tab -ref_peak '176ValHg2*' -haddock Mre11_haddock_2S.tab 2 -segid A B -cutoff 0.5

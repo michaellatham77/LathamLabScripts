@@ -1,0 +1,5 @@
+#example to run methyl_CSP.py3 script
+methyl_CSP.py3 -apo Mre11R_900_CSPs.tab -bound Mre11R_Break2_900_CSPs.tab
+
+#to get a file for pymol data2_bfactor and color_b
+methyl_CSP.py3 -apo Mre11R_900_CSPs.tab -bound Mre11R_Break2_900_CSPs.tab -pymol_bfactor Mre11_Break2.tab

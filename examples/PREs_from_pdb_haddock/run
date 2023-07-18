@@ -1,0 +1,2 @@
+#to get a table of observed and back calculated distances from a pdb file and a unambiguous distance restraint HADDOCK table
+PREs_from_pdb_haddock.py3 -pdb c_041123_Run8_Open_yellow_5_1.pdb -tbl Mre11_dimer_haddock_2S_0.6_v3.tab
