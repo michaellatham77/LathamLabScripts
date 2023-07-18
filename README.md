@@ -13,3 +13,6 @@ These are the python scripts we use to analyze NMR data and use that data for ot
 
 ## Running Scripts
 All our scripts use the `argparse` python library to parse command line arguments. You can get a brief description for what the script does and the arguments it takes by running `methyl_CSP.py3 -h` or simply `methyl_CSP.py3`.
+
+## Examples
+Examples for some of the scripts are provided in [examples](/examples). Example data and an example for how to run the script is given in the folder named after the appropriate script.
